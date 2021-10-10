@@ -102,7 +102,7 @@ const App = () => {
       <CV>
         <LeftCV>
           <LeftImg />
-          <Name>Phan Ba Hieu</Name>
+          <Name>Phan Bá Hiếu</Name>
           <Content>
             <LeftTitle>
               <IconInformation size="20" />
@@ -121,7 +121,7 @@ const App = () => {
               <IconEmail size="24" /> phanbahieu460@gmail.com
             </LeftSpan>
             <LeftSpan>
-              <IconAddress size="24" /> Hoang Dan - Tam Duong - Vinh Phuc{" "}
+              <IconAddress size="24" /> Tam Dương - Vĩnh Phúc{" "}
             </LeftSpan>
           </Content>
         </LeftCV>
